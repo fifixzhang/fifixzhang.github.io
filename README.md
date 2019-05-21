@@ -1,16 +1,9 @@
-# THE PING PONG MACHINE
-## Role
-UI/UX Design / Web developer / Sound Design
+# FiFi ZHANG
 
-## Tools
-Illustrator / Sketch / Protools / Reasons / Ableton Live 
+Hey, I am FiFi. I am a Product Designer / UX Designer with background in Sociology. I had been crafting experiences for JIKE App for two years.
 
-HTML / CSS / JavaScript
+Currently, I am pursuing my Master Degree in Design and Technology at Parsons School of Design, researching on better visual solutions supported by creative coding.
 
-## Introduction
-Inspired by John Cage’s Water Walk, “The Ping Pong Machine” is a web-based project exploring the harmony  in interesting sounds in our mundane life that we often ignore or regard as “noises“, say Ping Pong sounds. 
-You can play with the sampled Ping Pong sounds within the frame of a sequencer or trigger the sounds while listening to the arranged one-minute beats by me.
+Check my portfolio here 👇
 
-View the website here 👇
-
-# https://fifixzhang.github.io/
+# https://fifizhang.com
